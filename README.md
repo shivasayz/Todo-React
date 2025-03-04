@@ -24,8 +24,9 @@ git clone:
 https://github.com/yourusername/todo-app.git
 ```
 
-Navigate to the project folder and install the required dependencies:
+
 ### 2. Install dependencies
+Navigate to the project folder and install the required dependencies:
 ```bash
 cd todo-react-web-app
 npm instal
