@@ -8,6 +8,8 @@ A simple and efficient Todo App built with **React**. This app allows users to c
 
 - **Add tasks**: Create new tasks by typing and clicking "Add".
 - **Delete tasks**: Remove tasks from your list once they are done.
+- **Mark tasks as completed**: Tasks can be marked as completed with a simple checkbox.
+- **Filter tasks**: View **All**, **Active**, or **Completed** tasks separately.
 
 ---
 
@@ -27,11 +29,12 @@ To set up this app locally on your machine, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
-
-### 2. Install dependencies
-
+2. Install dependencies
 Navigate to the project folder and install the required dependencies:
 
-```bash
+bash
 cd todo-react-web-app
 npm install
+
+bash
+npm start
