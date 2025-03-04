@@ -42,7 +42,7 @@ https://github.com/yourusername/todo-app.git
 Navigate to the project folder and install the required dependencies:
 ```bash
 cd todo-react-web-app
-npm instal
+npm install
 ```
 
 ### 3. Start the app
