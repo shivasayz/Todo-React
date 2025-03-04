@@ -17,7 +17,6 @@ A simple and efficient Todo App built with **React**. This app allows users to c
 
 - **React**: The core JavaScript library for building user interfaces.
 - **CSS**: For styling the app and ensuring a responsive design.
-- **Local Storage**: To persist tasks even after refreshing the app or closing the browser.
 
 ---
 
