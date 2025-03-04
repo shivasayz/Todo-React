@@ -29,7 +29,7 @@ To set up this app locally on your machine, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
-### Install dependencies
+
 Navigate to the project folder and install the required dependencies:
 
 cd todo-react-web-app
