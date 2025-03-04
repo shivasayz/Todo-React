@@ -8,6 +8,19 @@ A simple and efficient Todo App built with **React**. This app allows users to c
 - **Add tasks**: Create new tasks by typing and clicking "Add".
 - **Delete tasks**: Remove tasks from your list once they are done.
 
+## 📱 Screenshots
+
+Here are some screenshots of the app in action:
+
+### Main Page
+
+![Main Page](https://github.com/shivasayz/todo-react/blob/f2ad5994b78fab44fbe81789d00c7bb899651bc5/todo-react-web-app/src/assets/ScreenShort1.PNG)
+
+### Tasks List
+
+![Tasks List](https://github.com/shivasayz/todo-react/blob/f2ad5994b78fab44fbe81789d00c7bb899651bc5/todo-react-web-app/src/assets/ScreenShort2.PNG)
+
+
 ## 🚀 Technologies Used
 
 - **React**: The core JavaScript library for building user interfaces.
